@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.container {
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    margin: 2px
+}
+
+.container img {
+    width: 500px;
+    height: 400px;
+}
+
+p {
+    font-weight: bold;
+    text-align: center;
+}
